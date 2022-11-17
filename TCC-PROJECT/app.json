@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "sigar",
+    "slug": "sigar",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "plugins": [
+      "@react-native-firebase/app"
+     
+    ]
+  }
+}
